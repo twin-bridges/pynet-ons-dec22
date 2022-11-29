@@ -1,0 +1,9 @@
+ipython
+pdbr
+rich
+black
+pylama
+pylint
+pycodestyle
+pyyaml
+requests
