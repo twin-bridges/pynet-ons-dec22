@@ -1,10 +1,21 @@
 
-a. Create a GitHub account (if you don’t have one)
+1. Close the course's folder in VS Code (file → close folder)
 
-b. Create a pynet_test repository on GitHub
+2. Select "Start → Open" in VS Code to create a new project. Name this project "pynet-test".
 
-c. Clone it to the lab environment
+3. Click on the "Git" icon in VSCode → Initialize Repository.
 
-d. Add a file; commit it. Push change up to GitHub
+4. Check "git status" from the cmd-prompt.
 
-e. Modify the README file in GitHub; pull it into the lab environment.
+5. Using VS Code add a new file to the project.
+
+6. Add and commit this file into the Git repository using VS Code (check "git status" 
+   from the terminal before the commit).
+
+7. Modify the file that you previously committed into the repository.
+
+8. Using VSCode look at the file's diff (side-by-side comparison).
+
+9. Revert this change so the file goes back to its original state.
+
+10. Check "git status" that everything is clean after you do this revert.
