@@ -1,10 +1,16 @@
+Back on your "pynet-test" repository, create a branch named "dev2". Checkout this branch.
 
-a. Create a branch in your lab environment
+Using VS Code add a new folder named "day1" containing three files: net1.py, net2.py, and net3.py. 
+What each file contains does not matter.
 
-b. Switch to this branch
+Commit those three files into the "dev2" branch. Using "git log" verify that the "dev2" branch 
+is now at least one commit further than the "main" branch.
 
-c. Add a file and commit this new file (in the new branch)
+Merge the "dev2" changes into the "main" branch. Remember you should first checkout the "main" 
+branch and then "merge from" dev2.
 
-d. Push the new branch up to GitHub
+Using "git log" verify that the "main" branch and the "dev2" branch are now both on the 
+same commit.
 
-e. Merge the new branch into the main branch
+Using VS Code, verify that your "main" branch now has the three files that you created in
+the "dev2" branch.
