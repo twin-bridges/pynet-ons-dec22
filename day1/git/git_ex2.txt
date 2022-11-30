@@ -1,0 +1,10 @@
+
+a. Create a branch in your lab environment
+
+b. Switch to this branch
+
+c. Add a file and commit this new file (in the new branch)
+
+d. Push the new branch up to GitHub
+
+e. Merge the new branch into the main branch
