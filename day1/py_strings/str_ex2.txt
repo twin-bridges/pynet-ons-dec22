@@ -1,5 +1,5 @@
 
-String Ex1
+String Ex2
 ----------
 
 ### Work in your pynet_test repository ###
@@ -8,4 +8,4 @@ a. Create a python script with three strings representing three names
 b. Print these three names out in a column 30 wide, right aligned
 c. Execute the script verify the output
 d. Add a prompt for a fourth name, print this out as well
-e. Check your code into Git and GitHub
+e. Check your code into Git

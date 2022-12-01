@@ -1,8 +1,7 @@
-Strings Ex2
+Strings Ex3
 -----------
 
 a. Create a python script that prompts for an IP address.
-b. Use #! at top of file; make executable
-c. split on '.'      
-d. Print out four octets with column width of 12; left aligned.
-e. Check your code into git & github
+b. split on '.'      
+c. Print out four octets with column width of 12; left aligned.
+d. Check your code into git
