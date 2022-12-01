@@ -1,0 +1,18 @@
+
+Lists Ex3
+=========
+
+1. In your Python program, create the following string.
+
+sentence = "This is a sentence consisting of eight words."
+
+2. Use the split() method to create a new variable containing a list of 
+   the words in the sentence.
+
+3. Change the first element of your newly created list to be all lower
+   case.
+
+4. Change the last element of your newly created list to be just "words"
+   i.e. no period at the end.
+
+5. Check whether the word "eight" exists in the list.

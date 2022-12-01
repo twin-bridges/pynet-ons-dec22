@@ -1,0 +1,16 @@
+
+Lists Ex4
+=========
+
+1. Use list(range(1,50)) to create a new list named my_list.
+
+2. Add "hello" and "world" onto the end of the list (as two new elements).
+
+3. Change index-0 to be "whatever". Use rich.print() to print out your current
+   list.
+
+4. Create a new list using a list slice where the new list is the last three 
+   elements of my_list. Use rich.print() to print out this new list.
+
+5. Make a second new list using a list slice where this list is the first
+   seven elements of my_list. Print out this new list.
