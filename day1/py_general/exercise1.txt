@@ -1,0 +1,7 @@
+
+1. In your "pynet-test" repository create a file named my_code.py.
+2. This code should prompt a user to enter in a DNS server and save 
+   that response to a variable named "dns_server1".
+3. You should then print the dns_server1 variable to standard output.
+4. Execute this code both from the terminal and from VS Code.
+5. Use git to add and commit this file into your repository.
