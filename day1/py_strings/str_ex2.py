@@ -1,14 +1,12 @@
 #!/usr/bin/env python
+name1 = "Kirk Byers"
+name2 = "George Washington"
+name3 = "Thomas Jefferson"
+name4 = input("\nEnter fourth name: ")
 
-ip_addr = input("\nPlease enter IP address: ")
-octets = ip_addr.split(".")
-
-# One solution
 print()
-print(f"{octets[0]:<12}{octets[1]:<12}{octets[2]:<12}{octets[3]:<12}")
-print()
-
-# Alternate solution using unpacking
-print()
-print("{:<12}{:<12}{:<12}{:<12}".format(*octets))
+print(f"{name1:>30}")
+print(f"{name2:>30}")
+print(f"{name3:>30}")
+print(f"{name4:>30}")
 print()

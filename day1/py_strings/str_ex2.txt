@@ -1,8 +1,11 @@
-Strings Ex2
------------
 
-a. Create a python script that prompts for an IP address.
-b. Use #! at top of file; make executable
-c. split on '.'      
-d. Print out four octets with column width of 12; left aligned.
-e. Check your code into git & github
+String Ex1
+----------
+
+### Work in your pynet_test repository ###
+
+a. Create a python script with three strings representing three names
+b. Print these three names out in a column 30 wide, right aligned
+c. Execute the script verify the output
+d. Add a prompt for a fourth name, print this out as well
+e. Check your code into Git and GitHub
