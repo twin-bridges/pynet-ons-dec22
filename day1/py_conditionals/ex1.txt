@@ -1,0 +1,14 @@
+
+Conditionals Ex1
+================
+
+1. Prompt to enter an IP address. Save this to a variable named ip_addr.
+
+2. Check if "192.168" is a part of the IP address (substring in broader string).
+   Don't worry about whether at the beginning, middle, or end of the IP address.
+
+3. If "192.168" is a part of the IP address, then print "The IP Address is Correct".
+
+4. If "192.168" is not a part of the IP address, then print out "Invalid IP Address"
+   and include the incorrect IP address as part of the message.
+   
