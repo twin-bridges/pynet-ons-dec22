@@ -14,4 +14,4 @@ if ver_major >= 16:
 elif ver_major == 15 and ver_minor >= 3:
     print("\nMajor Version 15, Minor Version >= 3\n")
 else:
-    print("\nOS Version is invalid.\n") 
+    print("\nOS Version is invalid.\n")
