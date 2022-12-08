@@ -1,0 +1,14 @@
+
+Dict Ex2
+--------
+
+a. Create two devices with the same key-value pairs as specified in the first dictionary
+   exercise (dict_ex1). These two devices should be assigned to variables named: chi_rtr1,
+   and chi_rtr2 respectively.
+
+b. Create a new blank dictionary named net_devices.
+
+c. Assign the two devices created in step-a to the net_devices dictionary using the keys
+   "chi_rtr1" and "chi_rtr2" respectively.
+
+d. Use rich.print to print out your net_devices dictionary.
