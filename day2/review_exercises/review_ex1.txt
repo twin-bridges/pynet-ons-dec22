@@ -9,8 +9,3 @@ Process the 'show_ip_int_brief.txt' file and create a data structure from it.
 2. The corresponding values should be the line “Protocol” field.
   
 3. Use rich.print to print out your data structure.
-
-4. Using the Python debugger set a breakpoint in your code and inspect the two 
-   dictionaries before they are printed to the screen. Use step over to step a 
-   few lines through the code. Add a second breakpoint and use continue to run 
-   until this second breakpoint is encountered.

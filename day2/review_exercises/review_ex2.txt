@@ -12,6 +12,10 @@ Process the 'show_arp.txt' file and create a data structure from it.
 
 3. Use rich.print to print these two data structures to the screen.
 
+4. Using the Python debugger set a breakpoint in your code and inspect the two 
+   dictionaries before they are printed to the screen. Use step over to step a 
+   few lines through the code. Add a second breakpoint and use continue to run 
+   until this second breakpoint is encountered.
 
 
 Your output should look something like the following:
