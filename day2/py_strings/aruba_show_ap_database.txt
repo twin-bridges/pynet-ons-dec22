@@ -4,7 +4,7 @@ AP Database
 Name               Group    AP Type  IP Address   Status        Flags  Switch IP       Standby IP
 ----               -----    -------  ----------   ------        -----  ---------       ----------
 library-1	     sjc      225      10.10.10.13  Up 8m:29s     Rc2    10.5.200.21     0.0.0.0
-library-1          sjc      225      10.10.10.10  Down          Rc2    10.5.200.21     0.0.0.0
+library-3          sjc      225      10.10.10.10  Down          Rc2    10.5.200.21     0.0.0.0
 library-2          sjc      225      10.10.10.12  Down          Rc2    10.5.200.21     0.0.0.0
 rm135-1            sjc      135      10.10.10.9   Down          Rc2    10.5.200.21     0.0.0.0
 rm135-2            sjc      135      10.10.10.11  Down          Rc2    10.5.200.21     0.0.0.0
