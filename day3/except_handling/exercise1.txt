@@ -1,15 +1,14 @@
 
-Functions Ex4
---------------
+Create a variable named filename.
 
-Based on your earlier exercise where you parsed the serial number from
-show_version
-  
-a. Create two functions
-b. Function1 opens the file and returns all of the data in the file as a text 
-   string. This function should take one argument (the filename).
-   
-   If the given file is not found gracefully handle the error and print a message
-   to the screen (return an empty string from the function).
+Using a try/except block open the file referred to in the filename variable.
 
-c. Function2 parses the show_version output and returns the serial number
+If the file does not exist gracefully handle the missing file using the following statement:
+
+except FileNotFoundError:
+
+If the file exists and is opened successfully, then print a message indicating this. If the 
+file does not exist, then print a message that an error occurred in your exception block.
+
+Test that your code works properly in both cases (i.e. both when the file exists and when it
+doesn't exist).
