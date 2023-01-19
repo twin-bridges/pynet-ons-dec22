@@ -1,0 +1,8 @@
+
+In a new Python file, import the two functions that you created in exercise1.
+
+Ensure that none of the test code executes during the import process (probably add
+print statements to the test code section so you can better determine this section is
+not executing)
+
+Invoke each of the two functions and print the result to standard output.
