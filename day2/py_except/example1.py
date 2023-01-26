@@ -1,4 +1,3 @@
-
 my_ds = {}
 try:
     # An error might happen here

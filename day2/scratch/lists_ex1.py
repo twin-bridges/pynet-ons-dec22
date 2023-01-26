@@ -1,16 +1,16 @@
 # Lists Ex1
 # ----------
-# 
+#
 # a. Create a list with five strings
-# 
+#
 # b. Use append to add two strings to the list
-# 
+#
 # c. Use pop to remove the first element
-# 
+#
 # d. Find the length of the list
-# 
+#
 # e. Sort the list
-# 
+#
 # f. Access index-0 (my_list[0]) and assign it a new value.
 
 from rich import print

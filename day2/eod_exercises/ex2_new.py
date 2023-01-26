@@ -27,9 +27,7 @@ for line in vlan_data.splitlines():
 print(my_ds)
 
 
-# 3. Create a new dictionary where the key is the vlan_id. 
+# 3. Create a new dictionary where the key is the vlan_id.
 # The corresponding value should be a dictionary containing the
-# following key-value pairs: vlan_name, status, ports. The ports 
+# following key-value pairs: vlan_name, status, ports. The ports
 # should be a list of ports.
-
-

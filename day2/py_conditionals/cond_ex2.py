@@ -1,4 +1,3 @@
-
 my_var = 7
 
 if my_var == 22:

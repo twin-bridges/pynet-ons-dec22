@@ -1,4 +1,3 @@
-
 with open("aruba_show_ap_database.txt") as aruba_file:
     ap_database = aruba_file.read()
 

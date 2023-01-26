@@ -1,4 +1,3 @@
-
 # import rich
 
 from rich import print as r_print

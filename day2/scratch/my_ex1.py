@@ -1,4 +1,4 @@
-#b. Assign it an ip address, a username, a password, a vendor, and a model 
+# b. Assign it an ip address, a username, a password, a vendor, and a model
 #   field: ip_addr, username, password, vendor, model.
 from rich import print
 

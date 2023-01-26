@@ -1,19 +1,19 @@
 #
-#Lists Ex2
-#----------
+# Lists Ex2
+# ----------
 #
-#a. Create two lists named list1 and list2 containing various strings, integers,
+# a. Create two lists named list1 and list2 containing various strings, integers,
 #   and floats.
 #
-#b. Create a list3 by concatenating list1 and list2 together.
+# b. Create a list3 by concatenating list1 and list2 together.
 #
-#c. Use rich.print to print out this list3.
+# c. Use rich.print to print out this list3.
 #
-#d. Instead of using list concatenation now directly modify list1 by using 
+# d. Instead of using list concatenation now directly modify list1 by using
 #   list1.extend(list2)
 #
-#e. Pop off the very first element of list3 and save it to a variable named 
-#   first_element. Print out this variable. Also verify list3 has changed 
+# e. Pop off the very first element of list3 and save it to a variable named
+#   first_element. Print out this variable. Also verify list3 has changed
 #   (i.e. no longer has the first element).
 from rich import print
 
