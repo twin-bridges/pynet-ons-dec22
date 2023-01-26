@@ -1,0 +1,6 @@
+
+1. Read in the file named "aruba_show_version.txt".
+
+2. Using regular expressions extract the Model, OS Version, and Uptime.
+
+3. Print these items to standard output.

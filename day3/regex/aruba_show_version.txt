@@ -1,0 +1,7 @@
+Aruba Operating System Software.
+ArubaOS (MODEL: 135), Version 6.3.1.1-4.0.0.0
+website: http://www.arubanetworks.com
+Copyright (c) 2002-2013, Aruba Networks, Inc.
+Compiled on 2013-11-12 at 02:36:43 PST (build 40841) by p4build
+AP uptime is 12 minutes 2 seconds
+Reboot Time and Cause: AP rebooted Wed Nov 13 13:14:58 UTC 2013; User Reboot
