@@ -132,3 +132,5 @@ STUDENT/*
 student/*
 work/*
 WORK/*
+
+.DS_Store
