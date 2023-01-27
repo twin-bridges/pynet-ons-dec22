@@ -3,7 +3,7 @@ Functions Ex4
 --------------
 
 Based on your earlier exercise where you parsed the serial number from
- show_version
+ show_version (or use ex4_reference_base.py))
   
 a. Create two functions
 b. Function1 opens the file and returns all of the data in the file as a text 
