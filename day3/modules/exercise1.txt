@@ -18,4 +18,4 @@ For example, as a simple test you can do something like the following:
     assert result == 4
 
 Introduce a simple error in your testing (i.e. something that results in the test statements being False)
-and observe that your testing catches this error.
+and observe that your testing catches this error).
