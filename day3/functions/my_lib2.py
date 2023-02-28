@@ -12,7 +12,7 @@ def find_serial_number(show_ver):
 
 
 if __name__ == "__main__":
-    
+
     my_file = "show_version.txt"
     show_ver = read_file(my_file)
     serial_number = find_serial_number(show_ver)

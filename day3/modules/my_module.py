@@ -17,8 +17,8 @@
 #    result = squared(2)
 #    assert result == 4
 #
-# Introduce a simple error in your testing (i.e. something that results in the test statements being False)
-# and observe that your testing catches this error).
+# Introduce a simple error in your testing (i.e. something that results in the test statements being
+# False) and observe that your testing catches this error.
 
 
 def exponent(x):
