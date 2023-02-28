@@ -1,0 +1,54 @@
+{
+    "array": [
+        {
+            "displayName": "AXIS P5522 PTZ Dome Network Camera (10.100.50.129)",
+            "enabled": "True",
+            "id": "149d6f4d-4f71-4ced-98b4-8b1e914578db",
+            "name": "AXIS P5522 PTZ Dome Network Camera (10.100.50.129)",
+            "description": "",
+            "address": "http://10.100.50.129/",
+            "userName": "root",
+            "model": "AXIS P5522 PTZ Dome Network Camera",
+            "lastModified": "2022-01-19T07:58:28.3170000Z",
+            "hardwareDriverPath": {
+                "type": "hardwareDrivers",
+                "id": "316f4995-decd-4fa9-9877-0833b369c053"
+            },
+            "relations": {
+                "parent": {
+                    "type": "recordingServers",
+                    "id": "b1c84b2c-47a9-48aa-b7d5-ee43167b30da"
+                },
+                "self": {
+                    "type": "hardware",
+                    "id": "149d6f4d-4f71-4ced-98b4-8b1e914578db"
+                }
+            }
+        },
+        {
+            "displayName": "AXIS M1144-L Network Camera (10.100.50.187)",
+            "enabled": "True",
+            "id": "4d7a1e6a-b538-482f-9ce0-e44048cb5955",
+            "name": "AXIS M1144-L Network Camera (10.100.50.187)",
+            "description": "",
+            "address": "http://10.100.50.187/",
+            "userName": "root",
+            "model": "AXIS M1144-L Network Camera",
+            "lastModified": "2022-01-19T07:58:29.6130000Z",
+            "hardwareDriverPath": {
+                "type": "hardwareDrivers",
+                "id": "316f4995-decd-4fa9-9877-0833b369c053"
+            },
+            "relations": {
+                "parent": {
+                    "type": "recordingServers",
+                    "id": "b1c84b2c-47a9-48aa-b7d5-ee43167b30da"
+                },
+                "self": {
+                    "type": "hardware",
+                    "id": "4d7a1e6a-b538-482f-9ce0-e44048cb5955"
+                }
+            }
+        }
+    ]
+}
