@@ -1,12 +1,14 @@
 
-Using Python and the "json" library, read in the file "show_apgroup.json" as 
-structured data. This file is located in "day4/json_exercises".
+Using Python and the "json" library, read in the file "get_hardware.json" as structured data. 
+This file is located in "day4/json_exercises".
 
 Which Python data-structure is returned (as the outermost data structure)?
 
-From this returned data-structure return a simple list of the AP-Group 
-Names. Your output should look as follows:
+From this returned data-structure extract the hardware-list and then print out the two camera 
+displayName's. Your output should look as follows:
 
 output:
----------
-['default', 'NoAuthApGroup']
+--------------------------------------------------------------------------------
+Camera Display Name: AXIS P5522 PTZ Dome Network Camera (10.100.50.129)
+Camera Display Name: AXIS M1144-L Network Camera (10.100.50.187)
+--------------------------------------------------------------------------------
